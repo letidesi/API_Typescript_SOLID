@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "commonjs", 
+    "strictPropertyInitialization": false,
+    "allowJs": true,
+    "esModuleInterop": true, 
+    "forceConsistentCasingInFileNames": true,
+    "strict": true, 
+    "skipLibCheck": true 
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
